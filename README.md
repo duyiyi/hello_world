@@ -18,4 +18,4 @@ Now I'm a spider-man.
 deep `learning` and machine `learning`
 ---------
 _________
-`nidn`dnif
+``nidn`` dnif
